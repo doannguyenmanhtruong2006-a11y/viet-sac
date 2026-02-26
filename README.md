@@ -15,7 +15,4 @@ VietSac là website đặt lịch trực tuyến, giúp người dùng dễ dàn
 - Vite
 - HTML, CSS
 
-## Cách chạy dự án
-```bash
-npm install
-npm run dev
+Làm chủ yếu bằng chatgipiti
